@@ -1,0 +1,188 @@
+1;USA;2090.03
+2;Germany;2061.56
+3;Sweden;2049.71
+4;England;2040.76
+5;France;2026.65
+6;Spain;2002.28
+7;Canada;1996.34
+8;Brazil;1995.3
+9;Netherlands;1980.47
+10;Australia;1919.69
+11;Japan;1916.68
+12;Norway;1908.25
+13;Denmark;1866.25
+14;China PR;1854.49
+15;Iceland;1854.4
+16;Italy;1846.5
+17;Korea Republic;1840.27
+18;Austria;1813.56
+19;Belgium;1795.67
+20;Switzerland;1765.9
+21;Portugal;1745.13
+22;Republic of Ireland;1743.59
+23;Scotland;1735.87
+24;Russia;1717.06
+25;Colombia;1702.64
+26;New Zealand;1699.7
+27;Czechia;1690.16
+28;Argentina;1682.45
+29;Finland;1676.76
+30;Wales;1665.82
+31;Poland;1662.26
+32;Vietnam;1648.89
+33;Ukraine;1644.63
+34;Serbia;1622.42
+35;Mexico;1621.8
+36;Costa Rica;1596.94
+37;Chinese Taipei;1578.28
+38;Romania;1564.03
+39;Slovenia;1556.25
+40;Nigeria;1554.94
+41;Chile;1553.22
+42;Hungary;1544.83
+43;Jamaica;1536.81
+44;Thailand;1530.56
+45;Northern Ireland;1523.83
+46;Philippines;1512.97
+47;Slovakia;1512.7
+48;Paraguay;1505.2
+49;Uzbekistan;1498.55
+50;Myanmar;1487.58
+51;Venezuela;1486.32
+52;Panama;1482.51
+53;Haiti;1475.33
+54;South Africa;1471.52
+55;Papua New Guinea;1469.52
+56;Cameroon;1445.75
+57;Belarus;1443.08
+58;Ghana;1419.63
+59;Croatia;1416.26
+60;India;1413.52
+61;IR Iran;1409.89
+62;Greece;1405.82
+63;TÅrkiye;1388.37
+64;Uruguay;1385.45
+65;Bosnia and Herzegovina;1382.41
+66;Cìte d'Ivoire;1379.39
+67;Ecuador;1376.11
+68;Israel;1358.37
+69;Fiji;1345.58
+70;Equatorial Guinea;1344.47
+71;Albania;1342.43
+72;Morocco;1334.08
+73;Jordan;1322.78
+74;Peru;1318.61
+75;Trinidad and Tobago;1318.11
+76;Tunisia;1298.6
+77;Zambia;1298.31
+78;Hong Kong, China;1297.87
+79;Azerbaijan;1290.24
+80;Algeria;1288.27
+81;Mali;1273.24
+82;Senegal;1264.44
+83;Guatemala;1259.69
+84;Bahrain;1254.12
+85;Guyana;1247.77
+86;Malta;1245.35
+87;Laos;1240.52
+88;Egypt;1229.98
+89;Malaysia;1228.66
+90;Bulgaria;1228.25
+91;Montenegro;1224.14
+92;Tonga;1221.48
+93;Guam;1218.07
+94;Cuba;1217.56
+95;Lithuania;1216.59
+96;Bolivia;1213.1
+97;Samoa;1212.01
+98;Estonia;1211.02
+99;Kazakhstan;1205.62
+100;Faroe Islands;1201.16
+101;Nepal;1199.88
+102;Kosovo;1188.46
+103;Puerto Rico;1186.72
+104;Solomon Islands;1181.11
+105;Indonesia;1179.93
+106;New Caledonia;1175.63
+107;Tahiti;1175.09
+108;Cook Islands;1174.93
+109;Dominican Republic;1173.44
+110;Congo;1161.46
+111;Moldova;1161.34
+112;Congo DR;1159
+113;United Arab Emirates;1158.26
+114;Nicaragua;1157.63
+115;El Salvador;1148.88
+116;Honduras;1145.7
+117;Luxembourg;1145.65
+118;Cambodia;1144.56
+119;Latvia;1142.4
+120;Togo;1138.33
+121;Cyprus;1134.28
+122;Vanuatu;1132.82
+123;The Gambia;1129.72
+124;Ethiopia;1117.66
+125;Zimbabwe;1115.59
+126;Georgia;1113.38
+127;Mongolia;1108.79
+128;Kyrgyz Republic;1099.57
+129;North Macedonia;1093.35
+130;Palestine;1091.95
+131;Singapore;1090.86
+132;St Kitts and Nevis;1090.74
+133;Suriname;1089.15
+134;Cabo Verde;1088.27
+135;Gabon;1079.87
+136;Guinea;1075.9
+137;Turkmenistan;1075.41
+138;Lebanon;1062.88
+139;Sierra Leone;1059.98
+140;Bangladesh;1054.55
+141;Burkina Faso;1050.87
+142;Armenia;1044.94
+143;Angola;1037.32
+144;American Samoa;1030
+145;Benin;1020.94
+146;Namibia;1011.92
+147;Bermuda;1007.55
+148;Kenya;991.78
+149;Tajikistan;991.2
+150;Botswana;984.32
+151;St Lucia;982
+152;Tanzania;980.17
+153;Barbados;966.8
+154;Sri Lanka;955.21
+155;St Vincent and the Grenadines;950.85
+156;Timor-Leste;946.01
+157;Pakistan;944.58
+158;Syria;942.82
+159;Malawi;941
+160;Maldives;938.55
+161;Uganda;924.09
+162;Dominica;910.74
+163;Rwanda;894.87
+164;Liberia;891.31
+165;Seychelles;884.64
+166;Niger;877.93
+167;Cayman Islands;854.05
+168;Grenada;849.17
+169;Lesotho;847.17
+170;Saudi Arabia;844.3
+171;Bhutan;841.86
+172;Belize;839.85
+173;Guinea-Bissau;834.73
+174;Mozambique;820.17
+175;Antigua and Barbuda;804.42
+176;Burundi;799.08
+177;Eswatini;798.94
+178;US Virgin Islands;793.07
+179;Curaáao;771.22
+180;Andorra;751.46
+181;British Virgin Islands;735.87
+182;Aruba;728.86
+183;Comoros;722.61
+184;Madagascar;691
+185;Anguilla;687.55
+186;Turks and Caicos Islands;664.95
+187;South Sudan;649.69
+188;Mauritius;375.59

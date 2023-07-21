@@ -1,0 +1,1 @@
+L'analisa da datas è vegnida fatga cun la software R 4.2.2, las rangaziuns da la FIFA èn dals 31. da fanadur: https://www.fifa.com/fifa-world-ranking/women?dateId=ranking_20230609
