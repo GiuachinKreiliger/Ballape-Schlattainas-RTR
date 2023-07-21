@@ -4,11 +4,13 @@ rankings_dunnas <- read.csv("C:/Users/KREILGIU/Downloads/rankings_dunnas.csv", h
 colnames(rankings_umens) <- c("ranking", "pajais", "puncts")
 colnames(rankings_dunnas) <- c("ranking", "pajais", "puncts")
 
+
 #far ina nova rangaziun per ils umens, damai che bu tut ils pajais han teams da dunnas
-rankings_umens <- rankings_umens[,rankings_umens$pajais %in% rankings_dunnas$pajais]
-rankings_umens$ranking <- 1:188
+rankings_umens <- rankings_umens[rankings_umens$pajais %in% rankings_dunnas$pajais,]
+rankings_umens$ranking <- 1:nrow(rankings_umens)
 
 rankings <- merge(rankings_dunnas, rankings_umens, by = "pajais")
+colnames(rankings) <- c("pajais", "ranking_dunnas", "puncts_dunnas", "ranking_umens", "puncts_umens")
 
 #calcular la differenza tranter umens e dunnas
 rankings$differenza <- rankings$ranking_dunnas - rankings$ranking_umens
@@ -25,8 +27,8 @@ sum(abs(rankings$differenza))
 
 #simulaziun da 10'000 rangaziuns da dunnas ed umens casualas, e calcular l'index da colliaziun
 absdiffsum <- c()
-for (u in 1 in 100000) {
-  tmp <- data.frame(rk1 = sample(1:188, replace = FALSE), rk2 = sample(1:188, replace = FALSE)); 
+for (u in 1:100000) {
+  tmp <- data.frame(rk1 = sample(1:nrow(rankings), replace = FALSE), rk2 = sample(1:nrow(rankings), replace = FALSE)); 
   absdiffsum <- c(absdiffsum, sum(abs(tmp$rk1 - tmp$rk2)))
 }
 
